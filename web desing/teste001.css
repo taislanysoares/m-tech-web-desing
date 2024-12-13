@@ -1,0 +1,31 @@
+body{
+    background-image:url(pexels-iriser-1408199.jpg) ;
+    background-size: cover;
+    font-family: cursive;
+    text-align: center;
+
+}
+form{
+    border: 2px solid black;
+    border-radius: 20px;  
+    border-color: rgba(136, 18, 87, 0.445);
+    display: inline-block;
+    padding: 50px;
+    background-color: rgba(102, 4, 58, 0.637);
+
+
+}
+
+
+h1{
+    color: rgb(216, 14, 14);
+}h2{
+color: rgb(238, 223, 12);
+
+}
+label{
+    color: rgb(9, 243, 87);
+}
+
+
+
